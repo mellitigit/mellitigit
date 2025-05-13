@@ -1,16 +1,13 @@
-## Hi there 👋
+## 👋 Hi, I'm Melliti Sabaa
 
-<!--
-**mellitigit/mellitigit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Engineering student passionate about machine learning and human-centered AI.
 
-Here are some ideas to get you started:
+🔬 Currently working on:
+- 🧠 Emotion recognition using physiological and non-physiological features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech I use:
+Python • PyTorch • Scikit-learn • Google Colab 
+
+📫 Reach me at:
+sabaa.melliti@esprit.tn | [LinkedIn](www.linkedin.com/in/sabaa-melliti-73858b252)
+
